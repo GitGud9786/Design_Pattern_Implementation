@@ -1,0 +1,2 @@
+javac -d out model/*.java strategy/*.java template/*.java decorator/*.java factory/*.java Main.java
+java -cp out Main
